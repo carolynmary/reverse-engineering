@@ -7,7 +7,7 @@
  
 - - -
 - - -
-### Reverse engineering of starter code which provides a tutorial to use as a starting point for a new project.
+### Reverse engineering of code used for a Node.js application using Sequelize and Passport. This tutorial can be used as a starting point for a new project.
 - - -
 - - -
 
