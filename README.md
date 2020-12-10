@@ -12,12 +12,11 @@
 - - -
 
 <!-- TOC -->
-[How to Use](#how-to-use) // [License](#license) // [Questions & Feedback](#questions-feedback) 
-  
-## How to Use 
+[License](#license) // [Questions & Feedback](#questions-feedback) 
 
-<!-- ![demo](pathToFileHere) -->
-Open **`Code-Tutorial.pdf`** and you’re on your way!
+
+Open **`Code-Tutorial.pdf`** for the full tutorial!
+![cover](./assets/Code-Tutorial.jpg)
 
 ## License
     
