@@ -15,8 +15,8 @@
 [License](#license) // [Questions & Feedback](#questions-feedback) 
 
 
-Open **`Code-Tutorial.pdf`** for the full tutorial!
-![cover](./assets/Code-Tutorial.jpg)
+Open **`Code-Tutorial.pdf`** for the full tutorial! </br>
+![cover](./assets/Code-Tutorial.png)
 
 ## License
     
